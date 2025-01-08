@@ -1,1 +1,2 @@
-# house_price_prediction
+# House Price Prediction
+Kaggle dataset: [T](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview)

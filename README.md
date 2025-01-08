@@ -4,4 +4,4 @@ Kaggle dataset: [House Prices - Advanced Regression Techniques](https://www.kagg
 - Performed an Exploratory Data Analysis on the data
 - Feature Engineering to handle missing values in train and test datasets
 - One-hot encoded categorical variables
-- Created a variety of different models to compare their abilities of accurately predicting the sale price of a house
+- Created a variety of different models and compared their abilities of accurately predicting the sale price of a house using k-fold cross validation

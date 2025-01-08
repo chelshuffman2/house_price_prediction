@@ -5,3 +5,4 @@ Kaggle dataset: [House Prices - Advanced Regression Techniques](https://www.kagg
 - Feature Engineering to handle missing values in train and test datasets
 - One-hot encoded categorical variables
 - Created a variety of different models and compared their abilities of accurately predicting the sale price of a house using k-fold cross validation
+  - Includes LASSO Regression, XGBoost Regression, Random Forest Regression, Voting Regression, and Stacking Regression.
